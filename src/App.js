@@ -10,8 +10,8 @@ function App() {
     <div className='App'>
       <UserList dataSource='https://jsonplaceholder.typicode.com/users' />
       <UserProfile
-        name='Yihua'
-        email='yihuazhang@gmail.com'
+        name='Adrian'
+        email='adrianchavita_13@hotmail.com'
         dataSource='https://jsonplaceholder.typicode.com/posts'
       />
     </div>
